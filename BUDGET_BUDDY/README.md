@@ -1,6 +1,6 @@
 # Expense Tracker Application
 
-I've created very simple and useful Expense Tracking Application.
+
 
 ### Outline:
 - User can add Income and Expenses both 
