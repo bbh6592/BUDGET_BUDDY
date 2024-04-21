@@ -17,12 +17,3 @@
 
 ### Database:
 - Hive
-
-
-
-
-Mail Me: khansawidhani@gmail.com
-
-**OR**
-
-(https://www.google.com/search?q=khansawidhani)
